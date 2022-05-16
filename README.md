@@ -5,7 +5,7 @@ This program is a CLI to manage an employee database using a series of Inquirer 
 
 ## Program Walkthrough
 
-[Click here to see a Video Walkthrough on Youtube](https://youtu.be/TQAOtdu7KJ0)
+[Click here to see a Video Walkthrough on Youtube](https://www.youtube.com/watch?v=O8GDmGGMkkk)
 
 ## Description
 
